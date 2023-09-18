@@ -28,7 +28,6 @@ To run the Sorting Algorithm Visualizer, you need to have Python and the Tkinter
 
 2. **Run the Application**:
     ```bash
-    Copy code
     python sorting_visualizer.py
     ```
 
